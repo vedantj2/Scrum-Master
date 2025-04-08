@@ -33,5 +33,5 @@ In fast-paced development teams, daily standups are critical—but they often la
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/scrummasterbot.git
+[git clone https://github.com/your-username/scrummasterbot.git](https://github.com/vedantj2/Scrum-Master.git)
 
