@@ -1,0 +1,6 @@
+slack_sdk==3.27.1
+uagents==0.9.0
+httpx==0.27.0
+python-dotenv==1.0.1
+pymongo==4.6.1
+requests==2.31.0
